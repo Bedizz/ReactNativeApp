@@ -34,21 +34,30 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-Git
-Node.js
-npm (Node Package Manager)
-Cloning the Repository
+<ul>
+  <li>Git</li>
+  <li>Node.js</li>
+  <li>npm (Node Package Manager)</li>
+</ul>
 
-git clone git@github.com:Bedizz/ReactNativeApp.git
-cd MyApp
-Installation
+<h2>Cloning the Repository</h2>
 
-Install the project dependencies using npm:
+<pre>
+  git clone git@github.com:Bedizz/ReactNativeApp.git
 
-npm install
-Running the Project
+  cd MyApp
+</pre>
 
-npm start
-Expo Go
+<h1>Installation</h1>
+
+<h2>Install the project dependencies using npm:</h2>
+
+<pre>npm install</pre>
+
+<h2>Running the Project</h2>
+
+<pre>npm start</pre>
+
+<h1>Expo Go</h1>
 
 Download the Expo Go app onto your device, then use it to scan the QR code from Terminal and run.
