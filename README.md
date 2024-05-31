@@ -1,9 +1,11 @@
  <h1>⚙️Tech Stack</h1>
-React Native
-Expo
-Nativewind
-Animatable
-Appwrite
+ <ul>
+  <li>React Native</li>
+ <li>Expo</li>
+ <li>Nativewind</li>
+ <li>Animatable</li>
+ <li>Appwrite</li>
+ </ul>
  <h1>🔋Features</h1>
 👉 Onboarding Screen: Engaging graphics and clear instructions welcome users to the app.
 
