@@ -1,10 +1,10 @@
-⚙️ <h1>Tech Stack</h1>
+ <h1>⚙️Tech Stack</h1>
 React Native
 Expo
 Nativewind
 Animatable
 Appwrite
-🔋 <h1>Features</h1>
+ <h1>🔋Features</h1>
 👉 Onboarding Screen: Engaging graphics and clear instructions welcome users to the app.
 
 👉 Robust Authentication & Authorization System: Secure email login safeguards user accounts.
@@ -27,7 +27,7 @@ Appwrite
 
 and many more, including code architecture and reusability
 
-🤸 <h1>Quick Start</h1>
+ <h1>🤸Quick Start</h1>
 Follow these steps to set up the project locally on your machine.
 
 <h2>Prerequisites</h2>
