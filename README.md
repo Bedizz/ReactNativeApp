@@ -39,8 +39,8 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/adrianhajdin/aora.git
-cd aora
+git clone git@github.com:Bedizz/ReactNativeApp.git
+cd MyApp
 Installation
 
 Install the project dependencies using npm:
